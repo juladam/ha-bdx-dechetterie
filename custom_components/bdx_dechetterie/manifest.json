@@ -1,0 +1,14 @@
+{
+    "domain": "bdx_dechetterie",
+    "name": "Bordeaux déchetterie",
+    "documentation": "https://github.com/juladam/ha-bdx-dechetterie",
+    "issue_tracker": "https://github.com/juladam/ha-bdx-dechetterie/issues",
+    "dependencies": [],
+    "codeowners": [
+        "@juladam"
+    ],
+    "requirements": [
+        "beautifulsoup4==4.7.1"
+    ],
+    "version": "1.0.0"
+}
